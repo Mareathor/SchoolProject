@@ -1,0 +1,207 @@
+body {
+  
+	margin: 60px 0px 0px 0px;
+  
+	padding: 0px;
+
+	background-color: #F6F6F6;
+}
+
+.winkel1 a{
+        width:200px;
+        height:200px;
+	padding: 104px;
+	margin: 0 auto;
+        border-radius:250px;
+	float: left;
+	border:20px solid #2B2B2B;
+	background-image: url(http://www.theoptimist.nl/daily/wp-content/uploads/2015/01/amsterdam.jpg);
+	background-position:center;
+	text-decoration: none;
+  
+	color: black;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 30px;
+	font-weight: bold;
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.winkel1 a:hover {
+	-webkit-filter: blur(5px); 	
+}
+.winkel2 a {
+        width:200px;
+        height:200px;
+	padding: 104px;
+	margin: 0 auto;
+        border-radius:250px;
+	float: left;
+	border:20px solid #2B2B2B;
+	background-image: url(http://rijnboutt.nl/files/projects/65/images/4077/high.jpg);
+	background-position:center;
+	text-decoration: none;
+  
+	color: black; 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.winkel2 a:hover {
+	-webkit-filter: blur(5px); 	
+}
+.winkel3 a{
+        width:200px;
+        height:200px;
+	padding: 104px;
+	margin: 0 auto;
+        border-radius:250px;
+	float: left;
+	border:20px solid #2B2B2B;
+	background-image: url(https://res.cloudinary.com/laad-media-b-v/image/upload/c_fill,h_627,q_80,w_950/v1/bikingroutes/shutterstock_384315151.jpg);
+	background-position:center;
+	text-decoration: none;
+  
+	color: black; 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.winkel3 a:hover {
+	-webkit-filter: blur(5px); 	
+}
+.wiezijnwij {
+	width: 100%;
+	height: 400px;
+	background-color: #2B2B2B;
+	padding: 10px;
+	margin: 100px 0px 700px 0px;
+	float: left;
+}
+.video {
+	float: right;
+	margin: 0px 10px 0px 50px;
+	frameborder: 0;	
+	width: 660px;
+	height: 315px;
+	loop: true;
+	controls: 0;
+	
+}
+h1 { 
+	color: #111; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 200px; 
+	font-weight: bold;
+	color: #F6F6F6;  
+	line-height: 1; 
+	text-align: center; 
+}
+h2 { 
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 30px; 
+	font-weight: 300; 
+	line-height: 32px; 
+	margin: 0px 0px 72px 0px; 
+	text-align: center; 
+}
+p { 
+	width: 100%;
+	color: #2B2B2B; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 20px; 
+	font-weight: normal;
+	line-height: 24px; 
+	margin: 0px 0px 24px 100px;  
+	text-justify: inter-word; 
+	text-align: left;
+}
+#vrouwman {
+	width= 100%; 
+	height= 100%;
+} 
+#banner {
+	width:100%;
+    	height:100%;
+}
+#nav {
+  
+	width: 100%;
+  
+	height: 60px;
+  
+	background: #2B2B2B;
+  
+	top: 0;
+  
+	position: fixed;
+}
+.klik {
+	width: 100%;
+	height: 60px;
+	background: #2B2B2B;
+	color: #F6F6F6; 
+}
+
+ul {
+  
+	width: 1200px;
+  
+	margin: 0px auto;
+  
+	display: block;
+  
+	padding: 0px;
+
+}
+
+
+li {
+  
+	list-style-type: none;
+
+}
+
+
+
+li a {
+  
+	width: 100px;
+  
+	height: 60px;
+  
+	display: inline-block;
+  
+	float: left;
+  
+	color: #F6F6F6;
+  
+	font-family: 'Helvetica Neue', sans-serif;
+	line-height: 60px;
+  
+	text-decoration: none;
+  
+	text-align: center
+
+}
+
+li a:hover {
+	color: #2B2B2B; 
+	background: #F6F6F6;
+
+	font-family: 'Open Sans', sans-serif; 
+}
+

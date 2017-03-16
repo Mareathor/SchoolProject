@@ -1,0 +1,211 @@
+body {
+  
+	margin: 60px 0px 0px 0px;
+  
+	padding: 0px;
+
+	Background-color: #AFB4BA;
+}	
+#banner {
+   	width: 960 px;
+	height: 492px;
+	margin: 0px 200px 0px 200px;
+	border:1px solid white;
+	border-radius: 0px 0px 10px 10px;
+}
+h1 { 
+	color: #111; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 100px; 
+	font-weight: bold;
+	color: #F6F6F6; 
+	letter-spacing: -1px; 
+	line-height: 1; 
+	text-align: center; 
+}
+
+
+h2 { 
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 32px; 
+	margin: 0px 0px 72px 0px; 
+	text-align: center; 
+}
+
+
+p { 
+	width: 100%;
+	color: #2B2B2B; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 20px; 
+	font-weight: normal;
+	line-height: 24px; 
+	margin: 0 0 24px; 
+	text-align: center; 
+	text-justify: inter-word; 
+}
+#nav {
+  
+	width: 100%;
+  
+	height: 60px;
+  
+	background: #2B2B2B;
+  
+	top: 0;
+  
+	position: fixed;
+}
+
+
+
+ul {
+  
+	width: 1200px;
+  
+	margin: 0px auto;
+  
+	display: block;
+  
+	padding: 0px;
+
+
+}
+
+
+
+li {
+  
+	list-style-type: none;
+
+}
+
+
+
+li a {
+  
+	width: 200px;
+  
+	height: 60px;
+  
+	display: inline-block;
+  
+	float: left;
+  
+	color: #F6F6F6;
+  
+	font-family: 'Helvetica Neue', sans-serif;
+	line-height: 60px;
+  
+	text-decoration: none;
+  
+	text-align: center;
+}
+
+
+
+li a:hover {
+	color: #2B2B2B; 
+	background: #F6F6F6;
+
+	font-family: 'Open Sans', sans-serif; 
+}
+.schoen {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 50px 100px 50px 200px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/1107/101/105/2/w/560/1107101105_1_1_1.jpg?ts=1452621559129);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
+.schoen2 {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 50px 0px 50px 55px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/2150/101/040/2/w/560/2150101040_2_1_1.jpg?ts=1462562132606);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
+.schoen3 {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 0px 100px 50px 200px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/1100/101/100/2/w/560/1100101100_1_1_1.jpg?ts=1447860537888);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
+.schoen4 {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 0px 0px 50px 55px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/3153/101/004/2/w/560/3153101004_1_1_1.jpg?ts=1449082525684);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
+.schoen5 {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 0px 100px 50px 200px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/7137/001/040/2/w/560/7137001040_1_1_1.jpg?ts=1447877634263);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
+.schoen6 {
+	width:200px;
+        height:200px;
+	border-radius: 10px;
+	margin: 0px 0px 50px 55px;
+	padding: 100px;
+	float: left;
+	border:1px solid #2B2B2B;
+	background-position: center;
+	background-image: url(http://static.zara.net/photos///2016/V/1/1/p/2100/101/113/2/w/560/2100101113_1_1_1.jpg?ts=1447862906867);
+	color: #2B2B2B; 
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50px; 
+	font-weight: 300; 
+	line-height: 0px;
+}
